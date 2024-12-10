@@ -68,8 +68,8 @@
             <artifactId>maven-compiler-plugin</artifactId>
             <version>3.13.0</version>
             <configuration>
-                <source>11</source>  <!-- The source code version (Java version) -->
-                <target>11</target>  <!-- The target Java bytecode version -->
+                <source>1.8</source>  <!-- The source code version (Java version) -->
+                <target>1.8</target>  <!-- The target Java bytecode version -->
                 <compilerArgs>
                <arg>--add-opens</arg>
                <arg>jdk.compiler/com.sun.tools.javac.processing=ALL-UNNAMED</arg>
