@@ -285,3 +285,13 @@
 2024-12-10 12:37:45,411 [TestNG-PoolService-2] INFO  HomePage - Looking for the productname
 2024-12-10 12:37:45,609 [TestNG-PoolService-2] INFO  HomePage - Clicked on cart button
 2024-12-10 12:37:45,748 [TestNG-PoolService-2] INFO  HomePage - Tomato
+2024-12-10 13:32:04,026 [TestNG-PoolService-1] INFO  Hooks - Extent reporting initialized for scenario: 
+2024-12-10 13:32:04,026 [TestNG-PoolService-2] INFO  Hooks - Extent reporting initialized for scenario: 
+2024-12-10 13:32:11,893 [TestNG-PoolService-1] INFO  HomePage - Entered the text in search field
+2024-12-10 13:32:11,917 [TestNG-PoolService-2] INFO  HomePage - Entered the text in search field
+2024-12-10 13:32:12,486 [TestNG-PoolService-1] INFO  HomePage - clicked search button
+2024-12-10 13:32:12,574 [TestNG-PoolService-1] INFO  HomePage - Looking for the productname
+2024-12-10 13:32:12,671 [TestNG-PoolService-2] INFO  HomePage - Clicked on add to cart
+2024-12-10 13:32:12,790 [TestNG-PoolService-2] INFO  HomePage - Looking for the productname
+2024-12-10 13:32:13,002 [TestNG-PoolService-2] INFO  HomePage - Clicked on cart button
+2024-12-10 13:32:13,096 [TestNG-PoolService-2] INFO  HomePage - Tomato
