@@ -68,8 +68,8 @@
             <artifactId>maven-compiler-plugin</artifactId>
             <version>3.13.0</version>
             <configuration>
-                <source>17</source>  <!-- The source code version (Java version) -->
-                <target>17</target>  <!-- The target Java bytecode version -->
+                <source>11</source>  <!-- The source code version (Java version) -->
+                <target>11</target>  <!-- The target Java bytecode version -->
             </configuration>
         </plugin>
 <plugin>
