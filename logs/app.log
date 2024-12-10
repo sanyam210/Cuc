@@ -295,3 +295,23 @@
 2024-12-10 13:32:12,790 [TestNG-PoolService-2] INFO  HomePage - Looking for the productname
 2024-12-10 13:32:13,002 [TestNG-PoolService-2] INFO  HomePage - Clicked on cart button
 2024-12-10 13:32:13,096 [TestNG-PoolService-2] INFO  HomePage - Tomato
+2024-12-10 13:44:20,644 [TestNG-PoolService-1] INFO  Hooks - Extent reporting initialized for scenario: 
+2024-12-10 13:44:20,644 [TestNG-PoolService-2] INFO  Hooks - Extent reporting initialized for scenario: 
+2024-12-10 13:44:25,277 [TestNG-PoolService-2] INFO  HomePage - Entered the text in search field
+2024-12-10 13:44:25,277 [TestNG-PoolService-1] INFO  HomePage - Entered the text in search field
+2024-12-10 13:44:25,697 [TestNG-PoolService-1] INFO  HomePage - clicked search button
+2024-12-10 13:44:25,745 [TestNG-PoolService-1] INFO  HomePage - Looking for the productname
+2024-12-10 13:44:26,017 [TestNG-PoolService-2] INFO  HomePage - Clicked on add to cart
+2024-12-10 13:44:26,079 [TestNG-PoolService-2] INFO  HomePage - Looking for the productname
+2024-12-10 13:44:26,265 [TestNG-PoolService-2] INFO  HomePage - Clicked on cart button
+2024-12-10 13:44:26,365 [TestNG-PoolService-2] INFO  HomePage - Tomato
+2024-12-10 13:45:41,652 [TestNG-PoolService-2] INFO  Hooks - Extent reporting initialized for scenario: 
+2024-12-10 13:45:41,652 [TestNG-PoolService-1] INFO  Hooks - Extent reporting initialized for scenario: 
+2024-12-10 13:45:47,126 [TestNG-PoolService-1] INFO  HomePage - Entered the text in search field
+2024-12-10 13:45:47,159 [TestNG-PoolService-2] INFO  HomePage - Entered the text in search field
+2024-12-10 13:45:47,508 [TestNG-PoolService-1] INFO  HomePage - clicked search button
+2024-12-10 13:45:47,627 [TestNG-PoolService-1] INFO  HomePage - Looking for the productname
+2024-12-10 13:45:47,909 [TestNG-PoolService-2] INFO  HomePage - Clicked on add to cart
+2024-12-10 13:45:47,963 [TestNG-PoolService-2] INFO  HomePage - Looking for the productname
+2024-12-10 13:45:48,167 [TestNG-PoolService-2] INFO  HomePage - Clicked on cart button
+2024-12-10 13:45:48,270 [TestNG-PoolService-2] INFO  HomePage - Tomato
